@@ -1,0 +1,4 @@
+# Source photos and local preview screenshots — not part of the published site
+/raw/
+p_*.png
+preview_*.png
